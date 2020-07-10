@@ -1,0 +1,25 @@
+
+RULES:
+
+1. ROCK,PAPER,SCISSORS
+Rock smashes Scissors
+Paper covers Rock
+Scissors cuts Paper
+
+2.HANGMAN / HANGAROO
+The word or phrase is spelt out initially by short dashes representing its length
+Player has a set number of tries to guess the word or phrase
+Once all chances are exhausted, player is gamed and the correct word or phrase is revealed.
+Player has the option to either play again or terminate the game.
+
+3.GAME FRENZY
+A game between a player and computer
+After a battle of Rock,Paper, Scissors(explained above in point 1),
+the winner moves on to play a guessing game (explained above in point 2)
+Winner has 3 tries to guess the correct word else Game Over!
+The correct word is then revealed and player is given the option to either
+play again or terminate the game
+If player plays again, the code begins (the While Loop causes several iterations)
+If the player does not play again, the program terminates.
+
+https://gist.github.com/Mer-cy/dd207e1af946adabe304bcc02e58bef0
